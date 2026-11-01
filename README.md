@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner: Sleek Jet-Black & Neon Sliced Cut -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:090d16&height=220&section=header&text=SUFYAN%20TSAURY&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=WEB%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=60&descAlign=50&descColor=00f2fe" width="100%"/>
+  <!-- Header Banner: Dark Waving Gradient (Anti-Kepotong & Presisi) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:0d1117,100:161b22&height=210&section=header&text=SUFYAN%20TSAURY&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=WEB%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=58&descAlign=50&descColor=00f2fe" width="100%"/>
 
   <!-- Typing SVG Effect -->
   <a href="https://github.com/Sufyan-Tsaury">
@@ -16,7 +16,7 @@
     <a href="https://www.instagram.com/piantsa?rpxt=M2N2bGV4ZXo0MHhl" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=000000" alt="Instagram"/>
     </a>
-    <a href="mailto:sufyantsaury753@gmail.com">
+    <a href="mailto:sufyantsaury.id@gmail.com">
       <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" alt="Email"/>
     </a>
   </p>
@@ -135,7 +135,7 @@ Membangun solusi **web modern, sistem informasi & aplikasi interaktif** yang cep
     <img src="https://img.shields.io/badge/DM%20via%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:sufyantsaury753@gmail.com">
+  <a href="mailto:sufyantsaury.id@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
